@@ -3,6 +3,13 @@
 A command-line tool for file encryption and decryption using AES-256.
 
 ## Usage
+First, build the executable:
+```bash
+make build
+```
+
+This will create the filecrypt executable in the bin directory.
+
 
 ### Generate an encryption key
 ```bash
